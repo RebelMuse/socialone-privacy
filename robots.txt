@@ -1,0 +1,7 @@
+User-agent: facebookexternalhit
+Allow: /legal/privacy
+Allow: /privacy
+
+User-agent: *
+Allow: /legal/privacy
+Allow: /privacy 
